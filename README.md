@@ -28,7 +28,7 @@ También desarrollé apps móviles para clientes (bloqueo de apps por NFC, catá
 
 ### 📫 Contacto
 Disponible para proyectos por encargo y equipos que necesiten un desarrollador más.
-[dariensherrera.dev@gmail.com](mailto:dariensherrera.dev@gmail.com) ·
+[contacto@arcinus.com](mailto:contacto@arcinus.com) ·
 [LinkedIn](https://linkedin.com/in/darien-herrera) ·
 [arcinus.com](https://arcinus.com)
 
